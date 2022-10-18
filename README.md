@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeremy F McKay
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and React-Native
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on I haven't given thought to this but I like a lot of things
 - 📫 How to reach me jeremyfmckay@gmail.com
 - [www.jeremymckay.com](https://www.jeremymckay.com)
